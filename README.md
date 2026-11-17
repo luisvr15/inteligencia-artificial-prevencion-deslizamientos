@@ -25,3 +25,4 @@ Detectar deslizamientos de tierra a partir de imágenes satelitales multiespectr
 ## Enlaces
 
 - Código: [ https://colab.research.google.com/drive/1IBbMhE-PhhDseHRMWqaAX9eBTGdYQWJV ]
+- Repositorio: [ https://github.com/luisvr15/inteligencia-artificial-prevencion-deslizamientos/tree/main ]
