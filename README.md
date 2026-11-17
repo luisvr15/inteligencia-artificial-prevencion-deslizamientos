@@ -1,8 +1,6 @@
 <!-- Espacio para el banner -->
 ![Banner del proyecto](Presentaciones/banner.jpeg)
 
-# Landslide4Sense
-
 ## Autores
 
 - Joseph Emanuel Sánchez
