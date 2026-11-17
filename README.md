@@ -17,7 +17,7 @@ Detectar deslizamientos de tierra a partir de imágenes satelitales multiespectr
 
 ## Modelos
 
-- Decision Tree (Árbol de decisión) from scikit-learn
+- Random Forest (Bosque aleatorio) from scikit-learn
 - Deep Neural Network (Red neuronal profunda) built with TensorFlow/Keras
 - K-Means (Agrupamiento) from scikit-learn
 - Dimensionality Reduction (Reducción de dimensionalidad) from scikit-learn
