@@ -1,6 +1,6 @@
 <!-- Espacio para el banner -->
 ![Banner del proyecto](inteligencia-artificial-prevencion-deslizamientos
-/Presentaciones/banner.png)
+/Presentaciones/banner.jpeg)
 
 # Landslide4Sense
 
