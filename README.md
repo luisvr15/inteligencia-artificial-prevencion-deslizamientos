@@ -3,9 +3,9 @@
 
 ## Autores
 
-- Joseph Emanuel Sánchez
-- Juan David Salazar
-- Luis Alejandro Vargas
+- Joseph Emanuel Sánchez Sierra
+- Juan David Salazar Pedrozo
+- Luis Alejandro Vargas Reyes
 
 ## Dataset
 
