@@ -7,6 +7,10 @@
 - Juan David Salazar Pedrozo
 - Luis Alejandro Vargas Reyes
 
+## Objetivo
+
+Detectar deslizamientos de tierra a partir de imágenes satelitales multiespectrales y topográficas, mediante modelos de inteligencia artificial, para apoyar la alerta temprana y la gestión de desastres.
+
 ## Dataset
 
 - Obtenido en: https://www.kaggle.com/datasets/tekbahadurkshetri/landslide4sense
